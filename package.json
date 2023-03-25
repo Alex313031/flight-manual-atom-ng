@@ -1,6 +1,7 @@
 {
-  "description": "Atom docs",
-  "private": true,
+  "description": "Atom-ng docs",
+  "version": "1.66.5",
+  "private": false,
   "dependencies": {
     "gulp": "^4.0.0",
     "gulp-coffee": "^2.3.1",
