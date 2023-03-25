@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Make sure everything is development forever
-export NODE_ENV=development
+export NODE_ENV=production
 
 set -e
 
@@ -9,7 +9,7 @@ cd "$(dirname "$0")/.."
 
 echo "==> Installing gem dependencies…"
 bundle check --path vendor/gems 2>&1 >/dev/null || {
-  bundle install --path vendor/gems --quiet --without production
+  bundle install --path vendor/gems
 }
 
 echo "==> Installing npm dependencies…"
