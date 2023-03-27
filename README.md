@@ -1,4 +1,4 @@
-##### Atom and all repositories under Atom will be archived on December 15, 2022. Learn more in our [official announcement](https://github.blog/2022-06-08-sunsetting-atom/)
+##### ~~Atom and all repositories under Atom will be archived on December 15, 2022. Learn more in our [official announcement](https://github.blog/2022-06-08-sunsetting-atom/)~~
  # Atom Flight Manual
 
 This is the Atom book. Everything you need to know in order to use and hack Atom is in this Flight Manual.
@@ -7,7 +7,8 @@ You can find this book online at: https://flight-manual.atom.io
 
 This book is open source under a Creative Commons license.
 
-[![atom-cover](https://cloud.githubusercontent.com/assets/378023/8718108/54c10686-2bdc-11e5-8d26-f7f807d63171.png)](https://github.com/atom/docs/releases/latest)
+[![atom-cover](https://raw.githubusercontent.com/Alex313031/flight-manual-atom-ng/master/assets/images/book/cover.png)](https://dl.thorium.rocks/flight-manual.atom.io
+)
 
 ## License
 
